@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: Gongsoo's Blog                          # the main title
 
-tagline: Python, Pytorch study   # it will display as the sub-title
+tagline: Python, Pytorch 공부하는영수   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
