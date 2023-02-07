@@ -1,8 +1,9 @@
 ---
-title: [PYTHON] 자료형(숫자형, String)
+title: Data Type(Numbers, Strings)[Python]
 date: 2023-02-07 21:52:53 +0900
 categories: [python, study]
 tags: [python, data type]     # TAG names should always be lowercase
+pin: True
 ---
 
 # Python의 자료형(숫자형, 문자열)
