@@ -229,7 +229,7 @@ sub.to_csv('베이스 라인 .csv', index = False)
 
 이대로 제출 해봅시당.
 
-![타이타닉1.png](%5BPython%20Study%5D%20Pytorch%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20Titanic%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%8C%E1%85%A9%E1%86%AB%E1%84%8C%20537bf58ca6b24cb9baa73d4f26dc4fc2/%25ED%2583%2580%25EC%259D%25B4%25ED%2583%2580%25EB%258B%25891.png)
+![타이타닉1](https://user-images.githubusercontent.com/121560522/225315991-b70da6c9-6f14-4b80-8f66-f6b367408e69.png)
 
 에.. 좋은 결과는 나오지 않았네요. 다음번에는 데이터를 요리조리 만져서 더 나은 결과를 만들어 보겠습니다.
 
